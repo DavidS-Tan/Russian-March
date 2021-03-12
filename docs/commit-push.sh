@@ -1,5 +1,5 @@
 #! /bin/sh
 cd ..
 git add .
-git commit
+git commit -m "`date`"
 git push origin main
