@@ -10718,8 +10718,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>49</pitch>
+              <tpc>9</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10756,8 +10756,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>49</pitch>
-              <tpc>9</tpc>
+              <pitch>46</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11725,15 +11725,15 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>58</pitch>
-              <tpc>12</tpc>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
