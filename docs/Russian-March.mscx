@@ -107,7 +107,10 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Russian March</text>
+          <text>Russian March
+<b><font size="16"/><font face="Edwardian Script ITC"/>for the piano
+</b><font size="18"/>by David S. Tan
+</text>
           </Text>
         </VBox>
       <Measure>
